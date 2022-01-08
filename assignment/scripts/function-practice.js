@@ -160,11 +160,11 @@ console.log('Sum of all items within array:', sumAll([234, 23566, 23677, 346734]
 //     return an empty array. Note: The input array should not change.
 
 function positiveNumbers(array) {
-  console.log('in positiveNumbers');
+console.log('in positiveNumbers');
 
 } // end positiveNumbers
 
-console.log('The new array is:', positiveNumbers([-3, -1, -4, -1, -2]) );
+console.log('The new array is:', positiveNumbers([4, 1, 4, 1, -2]) );
 
 // 11. Pick a problem from Edabit(https://edabit.com/) or
 //     CodeWars(https://www.codewars.com/). Then describe it
